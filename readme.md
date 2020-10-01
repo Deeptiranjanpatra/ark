@@ -23,7 +23,7 @@ See Ark's [documentation][] or the Ark [sample site][] for further details.
 
 
 
-## Installation
+## Installation Process
 
 Install directly from the Python Package Index using `pip`:
 
